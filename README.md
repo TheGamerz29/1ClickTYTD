@@ -3,7 +3,7 @@ Allows you to download video and music from youtube.
 
 > Didn't youtube already have the feature? Why did you waste your time creating this sh*t?!?
 
-Well, If you download it from youtube, it's encrypted in .exo format that only youtube plays it. Thus, this script allow you to save <br>
+Well, If you download it from youtube, it's encrypted in .exo format, which is proprietary. Only youtube could play that kind of file. Thus, this script allow you to save <br>
 the video as mp4a or mp3. <br>
 
 ## How do i install it?
