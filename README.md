@@ -39,7 +39,7 @@ Select any number based on your preferences <br>
 ![selection](https://github.com/TheGamerz29/1ClickTYTD/raw/main/Screenshot_20210322_202327.jpg)
 <br>
 
-After that it should start downloading it, Videos will be saved on Movies directory on your main storage, while Audios will be saved on Music directory. 
+After that it should start downloading it, Videos will be saved on Videos directory on your main storage, while Audios will be saved on Music directory. 
 
 This project rely heavily on Youtube-dl, please donate to them. Hope you enjoy using this script, bye! 
 
