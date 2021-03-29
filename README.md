@@ -11,7 +11,7 @@ EZ, just copy and paste these commands into Termux: <br>
 
 1: <br>
 ```bash
-apt install git -y && git clone https://github.com/TheGamerz29/1ClickTYTD
+apt install git -y && git clone https://github.com/TheGamerz29/1ClickTYTD.git
 ```
 2: <br>
 ```bash 
@@ -26,17 +26,17 @@ Wait for it to installs, after that it's done!
 First, open up youtube and select share <br>
 
 ![shareyt](https://github.com/TheGamerz29/1ClickTYTD/raw/main/Polish_20210322_202518740.jpg)
-<br>
+* * *
 
-Select Termux <br>
+> Select Termux <br>
 
 ![termuxsel](https://github.com/TheGamerz29/1ClickTYTD/raw/main/Polish_20210322_202615387.jpg) 
-<br>
+* * *
 
-Select any number based on your preferences <br>
+> Select any number based on your preferences <br>
 
 ![selection](https://github.com/TheGamerz29/1ClickTYTD/raw/main/Screenshot_20210322_202327.jpg)
-<br>
+* * *
 
 After that it should start downloading it, Videos will be saved on Videos directory on your main storage, while Audios will be saved on Music directory. 
 
