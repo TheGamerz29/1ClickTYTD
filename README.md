@@ -25,17 +25,17 @@ Wait for it to installs, after that it's done!
 
 First, open up youtube and select share <br>
 
-![shareyt](https://github.com/TheGamerz29/1ClickTYTD/raw/main/Polish_20210322_202518740.jpg)
+![shareyt](https://github.com/TheGamerz29/1ClickTYTD/raw/imgbot/Polish_20210322_202518740.jpg)
 * * *
 
 > Select Termux <br>
 
-![termuxsel](https://github.com/TheGamerz29/1ClickTYTD/raw/main/Polish_20210322_202615387.jpg) 
+![termuxsel](https://github.com/TheGamerz29/1ClickTYTD/raw/imgbot/Polish_20210322_202615387.jpg) 
 * * *
 
 > Select any number based on your preferences <br>
 
-![selection](https://github.com/TheGamerz29/1ClickTYTD/raw/main/Screenshot_20210322_202327.jpg)
+![selection](https://github.com/TheGamerz29/1ClickTYTD/raw/imgbot/Screenshot_20210322_202327.jpg)
 * * *
 
 After that it should start downloading it, Videos will be saved on Videos directory on your main storage, while Audios will be saved on Music directory. 
