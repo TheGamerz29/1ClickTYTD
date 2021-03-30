@@ -12,7 +12,7 @@ sleep 5
 figlet Installing
 figlet Dependancies | lolcat
 figlet ffmpeg | lolcat && echo "Installing..." 
-apt update &> 1clickins.log&& apt -y upgrade &> 1clickins.log
+apt update &> 1clickins.log && apt -y upgrade &> 1clickins.log
 yes | pkg install ffmpeg &> 1clickins.log
 
 echo -e "Requesting access to storage\n"
