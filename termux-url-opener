@@ -25,7 +25,7 @@ echo "(3) Download the video with 360p resolution"
 echo "(4) Download the video with 480p resolution"
 echo "(5) Download the video with 720p resolution"
 echo "(6) Download the video with 1080p resolution"
-echo Please type any number:
+echo "Please type any number:" | lolcat
 
 command='-no-mtime -o /data/data/com.termux/files/home/storage/shared/Videos/%(title)s.%(ext)s -f'
 read option
