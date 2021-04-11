@@ -13,12 +13,14 @@ clear
 echo
 figlet 1CLICK | lolcat -a
 echo
-echo "(1) Download as MP3" | lolcat
-echo "(2) Download as MP4a"
-echo "(3) Download the video with 360p resolution" | lolcat
-echo "(4) Download the video with 480p resolution"
-echo "(5) Download the video with 720p resolution" | lolcat
-echo "(6) Download the video with 1080p resolution"
+echo "Download as audio" | lolcat
+echo "(1) Save as MP3" 
+echo "(2) Save as MP4a"
+echo "Download as video" | lolcat
+echo "(3) 360p resolution"
+echo "(4) 480p resolution"
+echo "(5) 720p resolution"
+echo "(6) 1080p resolution"
 echo Please type any number:
 
 command='-no-mtime -o /data/data/com.termux/files/home/storage/shared/Movies/%(title)s.%(ext)s -f'
