@@ -52,4 +52,5 @@ rm -rf 1clickins2.log 1clickins3.log 1clickins4.log
 rm -rf 1clickins5.log 1clickins6.log 1clickins7.log
 rm -rf 1clickins8.log 1clickins9.log
 clear
-figlet 1ClickTYTD is now ready! | lolcat
+figlet 1ClickTYTD is | lolcat
+figlet Now Ready! | lolcat
