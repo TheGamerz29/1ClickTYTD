@@ -11,7 +11,7 @@
 # for simplicity converting to mp3 is done by pressing enter after shering video to termux
 clear
 echo
-figlet 1CLICK | lolcat -a
+figlet 1Click | lolcat -a -s 60.0
 echo
 echo "Download as audio" | lolcat
 echo "(1) Save as MP3" 
